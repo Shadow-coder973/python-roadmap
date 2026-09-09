@@ -1,8 +1,8 @@
 # we are using variables to store permanent information not short term information like with the input function.
 
 # we are going to make our variables here, and we are going to make a personal info keeper of height, age, etc.
-name = "Levi"
-age = "17"
+name = "Bob"
+age = "20"
 height = "178cm"
 last_name = "Steyn"
 
