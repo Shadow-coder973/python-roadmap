@@ -4,7 +4,7 @@
 name = "Bob"
 age = "20"
 height = "178cm"
-last_name = "Steyn"
+last_name = "Rickerson"
 
 # we are going to now make that info show up in with print().
 print ("Your name is "+ name)
